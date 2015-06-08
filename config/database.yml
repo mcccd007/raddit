@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: raddit_development
+  user: postgres
+  password: password
+  host: localhost
+
+test:
+  adapter: postgresql
+  database: raddit_test
+  user: postgres
+  password: password
+  host: localhost
