@@ -2,8 +2,6 @@ I haven't looked at this application in quite some time but I am happy to say th
 
 This is an attempt to do one the Mackenzie Child tutorials that are on Youtube,creating a "Reddit" style page. 
  
-To make it much more fun and functional I would like the root page to display all the links the app has from all users ranked by the amount of upvotes and downvotes.
-
-I could make some radio buttons with a way to create link popularity searching....
+To make it much more fun and functional I would like the root page to display all the links the app has from all users ranked by the amount of upvotes and downvotes. After that, I could make some radio buttons with a way to edit how the links on the root page are ordered to make searching more realistic....
 
 It is very black and white, so a little Bootstrap and a Swatch would really go a long way, but I have been using Guard + Guard_livereload in newere apps to try and make my own "style". 
